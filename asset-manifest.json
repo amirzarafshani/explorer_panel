@@ -1,0 +1,20 @@
+{
+  "main.css": "/static/css/main.6ba4ad4a.chunk.css",
+  "main.js": "/static/js/main.8cc83e41.chunk.js",
+  "main.js.map": "/static/js/main.8cc83e41.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/css/2.4f44c9d2.chunk.css": "/static/css/2.4f44c9d2.chunk.css",
+  "static/js/2.69f951e5.chunk.js": "/static/js/2.69f951e5.chunk.js",
+  "static/js/2.69f951e5.chunk.js.map": "/static/js/2.69f951e5.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.10bc1631cce2ca2d6ee5e4ea7ca208fc.js": "/precache-manifest.10bc1631cce2ca2d6ee5e4ea7ca208fc.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.4f44c9d2.chunk.css.map": "/static/css/2.4f44c9d2.chunk.css.map",
+  "static/css/main.6ba4ad4a.chunk.css.map": "/static/css/main.6ba4ad4a.chunk.css.map",
+  "static/media/main.css": "/static/media/IRANSansWebFaNum_Light.ef759554.woff",
+  "static/media/bootstrap.min.css": "/static/media/glyphicons-halflings-regular.fa277232.woff",
+  "static/media/imrc-datetime-picker.css": "/static/media/imrc-datetime-picker-icons.e33064be.svg",
+  "static/media/map-marker-icon.png": "/static/media/map-marker-icon.573ee4da.png",
+  "static/media/leaflet.css": "/static/media/marker-icon.573ee4da.png"
+}
